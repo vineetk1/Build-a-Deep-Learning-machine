@@ -1,24 +1,8 @@
-# Interact with Keras Model
-This software is an interactive command-line program. It interacts with user-generated deep-learning keras-based models. The user does the following:
-1. Build a deep-learning model using Keras 
-1. Interact with the model using this interactive command-line program
+# Build your Deep Learning system for less than US$ 1500
+***NOTE: This is work in progress. This message will be removed soon when this work is completed.**
+This build is primarily for Natural Language Processing using Deep Learning. 
 ## Table of contents
 <!-- vim-markdown-toc GFM -->
-* [Requirements](#requirements)
-* [Restrictions](#restrictions)
-* [Installation](#installation)
-* [Usage](#usage)
-	* [Start the program](#start-the-program)
-	* [Help](#help)
-	* [Shell](#shell)
-	* [Session](#session)
-	* [Load](#load)
-	* [Model](#model)
-	* [Layers](#layers)
-	* [IO (Input/Output)](#io-inputoutput)
-	* [Quit, Exit, EOF](#quit-exit-eof)
-* [Contribute to improve the software and add new features](#contribute-to-improve-the-software-and-add-new-features)
-* [License](#license)
 
 <!-- vim-markdown-toc -->
 ## Requirements
