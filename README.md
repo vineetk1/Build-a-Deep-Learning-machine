@@ -1,4 +1,3 @@
-# Build a powerful Deep Learning system for less than US$ 1500
 ***NOTE: This is work in progress. This message will be removed soon when this work is completed.**  
 This build is primarily for Natural Language Processing using Deep Learning. 
 ## Installation
