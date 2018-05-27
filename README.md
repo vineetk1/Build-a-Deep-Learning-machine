@@ -1,5 +1,6 @@
-***NOTE: This is work in progress. This message will be removed soon when this work is completed.**  
-This build is primarily for Natural Language Processing using Deep Learning. 
+**NOTE: This is work in progress. This message will be removed soon when this work is completed.**  
+
+This build is primarily for Natural Language Processing using Deep Learning neural networks. It should also work for vision, images, etc.
 ## Installation
 Clone this repository
 ```
