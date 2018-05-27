@@ -1,16 +1,6 @@
-# Build your Deep Learning system for less than US$ 1500
-***NOTE: This is work in progress. This message will be removed soon when this work is completed.**
+# Build a powerful Deep Learning system for less than US$ 1500
+***NOTE: This is work in progress. This message will be removed soon when this work is completed.**  
 This build is primarily for Natural Language Processing using Deep Learning. 
-## Table of contents
-<!-- vim-markdown-toc GFM -->
-
-<!-- vim-markdown-toc -->
-## Requirements
-python >= 3.5, keras >= 2.0.2, numPy >= 1.12.1  
-Lower versions may work. 
-## Restrictions
-* Currently works with Keras Sequential Model
-* Software development and testing is done on Linux OS
 ## Installation
 Clone this repository
 ```
