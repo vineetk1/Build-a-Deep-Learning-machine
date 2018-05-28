@@ -5,10 +5,14 @@ This build is primarily for Natural Language Processing using Deep Learning neur
 Register for an account on PC-Part-Picker at https://pcpartpicker.com/. This site is invaluable for building a system. It lists prices of components from various vendors, detects incompatibilities among selected components, keeps track of wattage the components will consume, and a lot more.  
 
 My parts list is at <https://pcpartpicker.com/user/vink9482/saved/M6WxYJ>. Following is a list of my price (including rebates, sales tax, shipping, etc.) on each component:   
-* $250 &npsp;&nbsp;&npsp;&nbsp;&npsp;&npsp;&nbsp;&npsp;&nbsp;&npsp;i5-8400 CPU and Motherboard
-* $525<pre>     </pre>GeForce GTX 1080 8GB GPU
-* $294     32GB (2 x 16GB) DDR4-2400 SDRAM
-* $200     500GB NVMe PCIe M.2 2280 SSD
-* $056     650W 80+ Gold Certified Fully-Modular ATX Power Supply
-* $ &thinsp; 40 &emsp; ATX Mid Tower Case
+* $ &thinsp; 250 &emsp; &emsp; i5-8400 CPU and Motherboard
+* $ &thinsp; 525 &emsp; &emsp; GeForce GTX 1080 8GB GPU
+* $ &thinsp; 294 &emsp; &emsp; 32GB (2 x 16GB) DDR4-2400 SDRAM
+* $ &thinsp; 200 &emsp; &emsp; 500GB NVMe PCIe M.2 2280 SSD
+* $ &thinsp; 056 &emsp; &emsp; 650W 80+ Gold Certified Fully-Modular ATX Power Supply
+* $ &ensp; 40 &emsp; &emsp; ATX Mid Tower Case
+* &emsp; &emsp; &emsp; Monitor
+* &emsp; &emsp; &emsp; Keyboard
+* &emsp; &emsp; &emsp; Mouse
+* $1365 &emsp; &emsp; Total including rebates, sales tax, and shipping
 * 123456789123456789123456789123456789
