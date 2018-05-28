@@ -16,7 +16,7 @@ $ &ensp; 40 &emsp; &emsp; ATX Mid Tower Case
 &emsp; &emsp; &emsp;  &emsp; &thinsp;  Mouse   
 $1365 &emsp; &emsp; Total including rebates, sales tax, and shipping; but excluding Monitor, Keyboard, and Mouse  
 Include a hard drive if 500 GB of SSD capacity is not sufficient. My specific components list is at <https://pcpartpicker.com/user/vink9482/saved/M6WxYJ>.   
-# Assemble system
+# Assemble hardware components
 Spend sufficient time in understanding the instructions in the installation manuals that come with each component. Carefully follow directions in the installation manuals to install the components. I installed the components in the following order:   
 1. Install the CPU in the Motherboard.
 1. Install the Fan on the CPU. The i5-8400 CPU comes with a Fan.
