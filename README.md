@@ -6,7 +6,7 @@ Register for an account on PC-Part-Picker at https://pcpartpicker.com/. This sit
 
 My parts list is at <https://pcpartpicker.com/user/vink9482/saved/M6WxYJ>. Following is a list of my price (including rebates, sales tax, shipping, etc.) on each component:   
 * $250 &npsp;&nbsp;&npsp;&nbsp;&npsp;&npsp;&nbsp;&npsp;&nbsp;&npsp;i5-8400 CPU and Motherboard
-* $525     GeForce GTX 1080 8GB GPU
+* $525<pre>     </pre>GeForce GTX 1080 8GB GPU
 * $294     32GB (2 x 16GB) DDR4-2400 SDRAM
 * $200     500GB NVMe PCIe M.2 2280 SSD
 * $056     650W 80+ Gold Certified Fully-Modular ATX Power Supply
