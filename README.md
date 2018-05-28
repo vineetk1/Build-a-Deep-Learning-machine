@@ -9,7 +9,7 @@ $ &thinsp; 250 &emsp; &emsp; i5-8400 CPU and Motherboard
 $ &thinsp; 525 &emsp; &emsp; GeForce GTX 1080 8GB GPU   
 $ &thinsp; 294 &emsp; &emsp; 32GB (2 x 16GB) DDR4-2400 SDRAM   
 $ &thinsp; 200 &emsp; &emsp; 500GB NVMe PCIe M.2 2280 SSD   
-$ &ensp; 56 &emsp; &emsp; 650W 80+ Gold Certified Fully-Modular ATX Power Supply   
+$ &ensp; 56 &emsp; &emsp; Fully-Modular ATX Power Supply   
 $ &ensp; 40 &emsp; &emsp; ATX Mid Tower Case   
 &emsp; &emsp; &emsp;  &emsp; &thinsp;  Monitor   
 &emsp; &emsp; &emsp;  &emsp; &thinsp;  Keyboard   
