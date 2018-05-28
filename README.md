@@ -10,4 +10,4 @@ My parts list is at <https://pcpartpicker.com/user/vink9482/saved/M6WxYJ>. Follo
 * $294     32GB (2 x 16GB) DDR4-2400 SDRAM
 * $200     500GB NVMe PCIe M.2 2280 SSD
 * $056     650W 80+ Gold Certified Fully-Modular ATX Power Supply
-* $040     ATX Mid Tower Case
+* $040 &emsp; ATX Mid Tower Case
