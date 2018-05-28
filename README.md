@@ -15,6 +15,5 @@ $ &ensp; 40 &emsp; &emsp; ATX Mid Tower Case
 &emsp; &emsp; &emsp;  &emsp; &thinsp;  Keyboard   
 &emsp; &emsp; &emsp;  &emsp; &thinsp;  Mouse   
 $1365 &emsp; &emsp; Total including rebates, sales tax, and shipping; but excluding Monitor, Keyboard, and Mouse  
-Include a hard drive if 500 GB of SSD capacity is not sufficient.
-My specific components list is at <https://pcpartpicker.com/user/vink9482/saved/M6WxYJ>.   
+Include a hard drive if 500 GB of SSD capacity is not sufficient. My specific components list is at <https://pcpartpicker.com/user/vink9482/saved/M6WxYJ>.   
 
