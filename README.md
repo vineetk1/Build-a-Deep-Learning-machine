@@ -10,7 +10,7 @@ Table of Contents
    * [Install software]()
 
 # Pick hardware components
-Register for an account on PC-Part-Picker at https://pcpartpicker.com/. This site is invaluable for building a system. It lists prices of components from various vendors, detects incompatibilities among selected components, keeps track of wattage the components will consume, and a lot more.  
+Register for an account at <a href="https://pcpartpicker.com" target="_blank">PC Part Picker</a>. This site is invaluable for building a system. It lists prices of components from various vendors, detects incompatibilities among selected components, keeps track of wattage the components will consume, and a lot more.  
 
 Following is a list of components and their prices:   
 $ &thinsp; 250 &emsp; &emsp; i5-8400 CPU and Motherboard   
@@ -23,7 +23,7 @@ $ &ensp; 40 &emsp; &emsp; ATX Mid Tower Case
 &emsp; &emsp; &emsp;  &emsp; &thinsp;  Keyboard   
 &emsp; &emsp; &emsp;  &emsp; &thinsp;  Mouse   
 $1365 &emsp; &emsp; Total including rebates, sales tax, and shipping; but excluding Monitor, Keyboard, and Mouse  
-Include a hard drive if 500 GB of SSD capacity is not sufficient. My specific components list is at <https://pcpartpicker.com/user/vink9482/saved/M6WxYJ>.   
+Include a hard drive if 500 GB of SSD capacity is not sufficient. My specific components list is <a href="https://pcpartpicker.com/user/vink9482/saved/M6WxYJ" target="_blank">HERE</a>
 # Assemble hardware components
 Spend sufficient time in understanding the instructions in the installation manuals that come with each component. Carefully follow directions in the installation manuals to install the components. I installed the components in the following order:   
 1. Install the CPU in the Motherboard.
