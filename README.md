@@ -15,4 +15,4 @@ $ &ensp; 40 &emsp; &emsp; ATX Mid Tower Case
 &emsp; &emsp; &emsp;  &emsp; &thinsp;  Keyboard   
 &emsp; &emsp; &emsp;  &emsp; &thinsp;  Mouse   
 $1365 &emsp; &emsp; Total including rebates, sales tax, and shipping   
-123456789123456789123456789123456789
+
