@@ -7,12 +7,12 @@ Register for an account on PC-Part-Picker at https://pcpartpicker.com/. This sit
 My parts list is at <https://pcpartpicker.com/user/vink9482/saved/M6WxYJ>. Following is a list of my price (including rebates, sales tax, shipping, etc.) on each component:   
 $ &thinsp; 250 &emsp; &emsp; i5-8400 CPU and Motherboard   
 $ &thinsp; 525 &emsp; &emsp; GeForce GTX 1080 8GB GPU   
-* $ &thinsp; 294 &emsp; &emsp; 32GB (2 x 16GB) DDR4-2400 SDRAM
-* $ &thinsp; 200 &emsp; &emsp; 500GB NVMe PCIe M.2 2280 SSD
-* $ &thinsp; 056 &emsp; &emsp; 650W 80+ Gold Certified Fully-Modular ATX Power Supply
-* $ &ensp; 40 &emsp; &emsp; ATX Mid Tower Case
-* &emsp; &emsp; &emsp; Monitor
-* &emsp; &emsp; &emsp; Keyboard
-* &emsp; &emsp; &emsp; Mouse
-* $1365 &emsp; &emsp; Total including rebates, sales tax, and shipping
-* 123456789123456789123456789123456789
+$ &thinsp; 294 &emsp; &emsp; 32GB (2 x 16GB) DDR4-2400 SDRAM   
+$ &thinsp; 200 &emsp; &emsp; 500GB NVMe PCIe M.2 2280 SSD   
+$ &thinsp; 056 &emsp; &emsp; 650W 80+ Gold Certified Fully-Modular ATX Power Supply   
+$ &ensp; 40 &emsp; &emsp; ATX Mid Tower Case   
+&emsp; &emsp; &emsp;  &emsp; Monitor   
+&emsp; &emsp; &emsp;  &emsp; Keyboard   
+&emsp; &emsp; &emsp;  &emsp; Mouse   
+$1365 &emsp; &emsp; Total including rebates, sales tax, and shipping   
+123456789123456789123456789123456789
