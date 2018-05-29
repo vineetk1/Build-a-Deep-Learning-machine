@@ -1,4 +1,4 @@
-**NOTE: This is work in progress. This message will be removed soon when this work is completed.**  
+**NOTE: This is work in progress. This message will be removed soon when this work is completed.**  x
 <!-- vim-markdown-toc GFM -->
 * [Pick hardware components](#pick-hardware-components)
 * [Assemble hardware components](#assemble-hardware-components)
