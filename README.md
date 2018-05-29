@@ -21,6 +21,7 @@ $ &ensp; 40 &emsp; &emsp; ATX Mid Tower Case
 &emsp; &emsp; &emsp;  &emsp; &thinsp;  Keyboard   
 &emsp; &emsp; &emsp;  &emsp; &thinsp;  Mouse   
 $1365 &emsp; &emsp; Total including rebates, sales tax, and shipping; but excluding Monitor, Keyboard, and Mouse  
+
 I already have a cheap monitor and a wired USB keyboard and mouse, which I will use to boot the system and install the Secure Shell (SSH). Then I will use my Laptop's monitor/keyboard/mouse to log into this system via my home network (and also the Internet) using SSH.   
 
 My specific components list is <a href="https://pcpartpicker.com/user/vink9482/saved/M6WxYJ" target="_blank">HERE</a>. Include a hard drive if 500 GB of SSD capacity is not sufficient.
