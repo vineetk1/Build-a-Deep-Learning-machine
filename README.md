@@ -1,14 +1,12 @@
 **NOTE: This is work in progress. This message will be removed soon when this work is completed.**  
+<!-- vim-markdown-toc GFM -->
+* [Pick hardware components](#pick-hardware-components)
+* [Assemble hardware components](#assemble-hardware-components)
+* [Install software](#install-software)
+
+<!-- vim-markdown-toc -->
 
 This build is primarily for Natural Language Processing using Deep Learning neural networks. It should also work for Vision, Images, etc.  
-
-Table of Contents
-=================
-
-   * [Pick hardware components]()
-   * [Assemble hardware components]()
-   * [Install software]()
-
 # Pick hardware components
 Register for an account at <a href="https://pcpartpicker.com" target="_blank">PC Part Picker</a>. This site is invaluable for building a system. It lists prices of components from various vendors, detects incompatibilities among selected components, keeps track of wattage the components will consume, and a lot more.  
 
