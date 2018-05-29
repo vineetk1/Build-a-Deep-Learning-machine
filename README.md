@@ -1,9 +1,12 @@
-**NOTE: This is work in progress. This message will be removed soon when this work is completed.**
+**NOTE: This is work in progress. This message will be removed soon when this work is completed.**   
 This build is primarily for Natural Language Processing using Deep Learning neural networks. It should also work for Vision, Images, etc.
 <!-- vim-markdown-toc GFM -->
 * [Pick hardware components](#pick-hardware-components)
 * [Assemble hardware components](#assemble-hardware-components)
-* [Install software](#install-software)
+* [Boot the system](#boot-the-system)
+	* [Install OS](#install-os)
+	* [Install SSH](#install-ssh)
+* [Install Deep Learning software](#install-deep-learning-software)
 
 <!-- vim-markdown-toc -->
 
@@ -33,7 +36,12 @@ Spend sufficient time in understanding the instructions in the installation manu
 1. Install the SSD in the Motherboard.
 1. Install the RAM in the Motherboard.
 1. Install the GPU in the Motherboard.
-2. Turn ON the power.
+1. Turn ON the power.
 The assembly should be hassle-free, unless one or more components are faulty.
-# Install software
+# Boot the system 
+## Install OS
+## Install SSH
+# Install Deep Learning software
+
+
  
