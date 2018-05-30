@@ -38,7 +38,10 @@ Spend sufficient time in understanding the instructions in the installation manu
 1. Turn ON the power.
 The assembly should be hassle-free, unless one or more components are faulty.
 # Boot the system 
+## Create a bootable USB stick for the OS
+I will use Ubuntu OS. As of this writing, Ubuntu Desktop 18.04 is the stable and latest version. This tutorial on <a href="https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-ubuntu#0" target="_blank">creating a bootable USB stick</a> makes the process very simple.
 ## Install OS
+## Install software
 ## Install SSH
 # Install Deep Learning software
 
