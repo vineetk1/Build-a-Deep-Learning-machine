@@ -30,11 +30,13 @@ My specific components list is <a href="https://pcpartpicker.com/user/vink9482/s
 Spend sufficient time in understanding the instructions in the installation manuals and the videos that come with the components. Carefully follow directions in the installation manuals and the videos to install the components. I installed the components in the following order:   
 1. Install the CPU in the Motherboard.
 1. Install the Fan on the CPU. The i5-8400 CPU comes with a Fan.
-1. Install the Power Supply in the Case.
+1. Install the RAM in the Motherboard.
 1. Install the Motherboard in the Case. 
 1. Install the SSD in the Motherboard.
-1. Install the RAM in the Motherboard.
 1. Install the GPU in the Motherboard.
+1. Install the Power Supply in the Case.
+1. Spend sufficient time in developing a strategy to route cables between the connectors of the Front Panel/Back Panel/Power Supply/Fans and the connectors in the motherboard. Cables should be routed such that the airflow is not obstructed, the status LEDs are visible, the clear CMOS memory jumper pins and all other parts that need to be accessed are accessable, and the cables criss-cross the motherboard as less as possible. Also, develop a checklist of connections.
+1. Use appropriate cables to connect the connectors of the Front Panel/Back Panel/Power Supply/Fans with those in the motherboard. Go through the checklist, developed earlier, to confirm that all the connections have been made.
 1. Turn ON the power.
 The assembly should be hassle-free, unless one or more components are faulty.
 # Boot the system 
