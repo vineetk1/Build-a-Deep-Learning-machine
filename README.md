@@ -35,13 +35,10 @@ Spend sufficient time in understanding the instructions in the installation manu
 1. Install the SSD in the Motherboard.
 1. Install the GPU in the Motherboard.
 1. Install the Power Supply in the Case.
-1. Spend sufficient time in developing a strategy to route cables between the connectors of the Front Panel/Back Panel/Power Supply/Fans and the connectors in the motherboard. Cables should be routed such that the airflow is not obstructed, the status LEDs are visible, the clear CMOS memory jumper pins and all other parts that need to be accessed are accessable, and the cables criss-cross the motherboard as less as possible. Also, develop a checklist of connections.
+1. Spend sufficient time in developing a strategy to route the cables between the connectors of the Front Panel/Back Panel/Power Supply/Fans and the connectors in the motherboard. Cables should be routed such that the airflow is not obstructed, the status LEDs are visible, the clear CMOS memory jumper pins and all other parts that need to be accessed are accessable, and the cables criss-cross the motherboard as less as possible. Also, develop a checklist of connections. As a side note, my Power Supply has a fan, and there are two fans pre-installed in the Case. Along with the CPU fan, my System has four fans.
 1. Use appropriate cables to connect the connectors of the Front Panel/Back Panel/Power Supply/Fans with those in the motherboard. Go through the checklist, developed earlier, to confirm that all the connections have been made.
-1. Turn ON the power.
-The assembly should be hassle-free, unless one or more components are faulty.
 # Boot the system 
-## &emsp; &emsp; Create a bootable USB stick for the OS
-I will use the Ubuntu OS. As of this writing, Ubuntu Desktop 18.04 is the stable and latest version. This tutorial on <a href="https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-ubuntu#0" target="_blank">creating a bootable USB stick</a> makes the process very simple.
+1. Create a bootable USB stick for the OS. I will install the Ubuntu OS. As of this writing, Ubuntu Desktop 18.04 is the stable and latest version. This tutorial on <a href="https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-ubuntu#0" target="_blank">creating a bootable USB stick</a> makes the process very simple.
 ## &emsp; &emsp; Install OS in the hardware system
 # Install other software
 ## &emsp; &emsp; Install SSH
