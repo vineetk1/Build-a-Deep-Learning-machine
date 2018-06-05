@@ -40,7 +40,7 @@ Spend sufficient time in understanding the instructions in the installation manu
    * If there is no text on the Monitor, or some other peripheral does not work, then this is an excellent opportunity to learn more about the computer. There is a wealth of information on the web that will help in troubleshooting.
    * If the computer is in the BIOS, set the date and time, verify that the BIOS recognizes the components (e.g. RAM, SSD, GPU, etc) and that it is controlling the fans.  
    * Exit the BIOS, and the computer will enter the bootable USB that has the Ubuntu OS.
-1. Install the OS
+1. Install the OS. During Ubuntu installation, answer the questions to customize the installation. If the computer is connected to the Internet, software will be loaded from the Internet.
 # Install other software
 ## &emsp; &emsp; Install SSH
 ## &emsp; &emsp; Install Deep Learning software
