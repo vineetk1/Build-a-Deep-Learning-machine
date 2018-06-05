@@ -37,7 +37,7 @@ Spend sufficient time in understanding the instructions in the installation manu
 2. Connect external peripherals to the Computer. Connect the Computer with the Keyboard, Mouse, Display, Bootable USB stick, and optionally the Internet. Note that there are Display ports (e.g. DVI, HTML) that are controlled by the CPU, and a separate set of Display ports of the GPU. Since the GPU is installed, the CPU display ports will not work. Connect an appropriate display port of the GPU with the Display.
 3. Connect the Computer Power Supply, Display Power Supply, etc. with the Power Outlet.
 4. Enter the BIOS. According to my Motherboard's User Manual, use the <DELETE> key to enter the BIOS. So, press the <DELETE> key and Turn ON the Computer. The Computer should enter the BIOS with messages and instructions displayed on the Monitor. Release the <DELETE> key. 
-..* Set the date and time, verify that the BIOS recognizes the components (e.g. RAM, SSD, GPU, etc) and that it is controlling the fans.  
+     * Set the date and time, verify that the BIOS recognizes the components (e.g. RAM, SSD, GPU, etc) and that it is controlling the fans.  
 ## &emsp; &emsp; Install OS
 # Install other software
 ## &emsp; &emsp; Install SSH
