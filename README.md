@@ -52,6 +52,7 @@ Start OpenSSH Server and check its status
 sudo service ssh start
 sudo service ssh status
 ```
+Use this <a href="https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-ubuntu#0" target="_blank">tutorial</a> to (1) Generate a public/private keys on the Client, and (2) Install the public key at the Server. 
 ## &emsp; &emsp; Install Deep Learning software
 
 
