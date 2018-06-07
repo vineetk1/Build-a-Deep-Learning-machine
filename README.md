@@ -41,8 +41,11 @@ Spend sufficient time in understanding the instructions in the installation manu
    * If the computer is in the BIOS, set the date and time, verify that the BIOS recognizes the components (e.g. RAM, SSD, GPU, etc) and that it is controlling the fans.  
    * Exit the BIOS, and the computer will enter the bootable USB that has the Ubuntu OS.
 1. Install the OS. During Ubuntu installation, answer the questions to customize the installation. If the computer is connected to the Internet, software will be loaded from the Internet.
-# Install other software
+# Install software
 ## &emsp; &emsp; Install SSH
+```
+sudo apt-get install openssh-server
+```
 ## &emsp; &emsp; Install Deep Learning software
 
 
