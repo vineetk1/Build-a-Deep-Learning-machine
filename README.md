@@ -57,7 +57,7 @@ Install SSH
 ```
 sudo apt-get install openssh-client
 ```
-Use this <a href="https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-ubuntu-1804" target="_blank">tutorial</a> to (1) Generate a public/private rsa key pairt, and (2) Install the client's public key at the Server. Briefly, the following three commands are used.
+Use this <a href="https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-ubuntu-1804" target="_blank">tutorial</a> to (1) Generate a public/private rsa key pairt, and (2) Install the client's public key at the Server. Briefly, the following three commands are used.  
 Generate public/private rsa key pair
 ```
 ssh-keygen
