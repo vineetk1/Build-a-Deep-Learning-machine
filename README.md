@@ -43,8 +43,14 @@ Spend sufficient time in understanding the instructions in the installation manu
 1. Install the OS. During Ubuntu installation, answer the questions to customize the installation. If the computer is connected to the Internet, software will be loaded from the Internet.
 # Install software
 ## &emsp; &emsp; Install SSH
+Install SSH
 ```
 sudo apt-get install openssh-server
+```
+Start OpenSSH Server and check its status
+```
+sudo service ssh start
+sudo service ssh status
 ```
 ## &emsp; &emsp; Install Deep Learning software
 
