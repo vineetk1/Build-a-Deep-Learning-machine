@@ -43,7 +43,7 @@ Spend sufficient time in understanding the instructions in the installation manu
 1. Install the OS. During Ubuntu installation, answer the questions to customize the installation. If the computer is connected to the Internet, software will be loaded from the Internet.
 # Install software
 ## &emsp; &emsp; Install SSH
-Install SSH
+Install and run SSH at the Server
 ```
 sudo apt-get install openssh-server
 ```
@@ -52,7 +52,20 @@ Start OpenSSH Server and check its status
 sudo service ssh start
 sudo service ssh status
 ```
-Use this <a href="https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-ubuntu-1804" target="_blank">tutorial</a> to (1) Generate a public/private keys on the Client, and (2) Install the public key at the Server. 
+Install and run SSH at the Client
+Install SSH
+```
+sudo apt-get install openssh-client
+```
+Use this <a href="https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-ubuntu-1804" target="_blank">tutorial</a> to (1) Generate a public/private rsa key pairt, and (2) Install the client's public key at the Server. Briefly, the following three commands are used.
+Generate public/private rsa key pair
+```
+ssh-keygen
+```
+Install the client's public key at the Server. The server's IP address can be used for remote_host.
+```
+ssh-copy-id username@remote_host
+```
 ## &emsp; &emsp; Install Deep Learning software
 
 
