@@ -44,16 +44,16 @@ Spend sufficient time in understanding the instructions in the installation manu
 # Remotely connect with the computer using SSH
 From this point forward, this computer is called a Server and a computer that remotely connects to this Server is called a Client.
 ## &emsp; &emsp; Server side
-Install SSH
+Install SSH.
 ```
 sudo apt-get install openssh-server
 ```
-Start SSH and check its status
+Start SSH and check its status.
 ```
 sudo service ssh start
 sudo service ssh status
 ```
-Get IP address that will be used later
+Get IP address that will be used later.
 ```
 ifconfig -a
 ```
@@ -62,16 +62,16 @@ Install SSH.
 ```
 sudo apt-get install openssh-client
 ```
-Use this <a href="https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-ubuntu-1804" target="_blank">tutorial</a> to (1) Generate a public/private rsa key pair, and (2) Install the client's public key at the Server. Briefly, the following three commands are used.  
-Generate public/private rsa key pair.
+Use this <a href="https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-ubuntu-1804" target="_blank">tutorial</a> to (1) Generate a public/private rsa key pair, and (2) Install the client's public key at the Server.   
+Briefly, the following two commands are used.  
+1. Generate public/private rsa key pair.
 ```
 ssh-keygen
 ```
-Install the client's public key at the Server. The server's IP address can be used for remote_host.
+1. Install the client's public key at the Server. The server's IP address can be used for remote_host.
 ```
 ssh-copy-id username@remote_host
 ```
-## &emsp; &emsp; Install Deep Learning software
-
+# Install Deep Learning software
 
  
