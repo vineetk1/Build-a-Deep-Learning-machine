@@ -68,7 +68,7 @@ Briefly, the following two commands are used.
 ```
 ssh-keygen
 ```
-1. Install the client's public key at the Server. The server's IP address can be used for remote_host.
+2. Install the client's public key at the Server. The server's IP address can be used for remote_host.
 ```
 ssh-copy-id username@remote_host
 ```
