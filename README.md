@@ -41,24 +41,29 @@ Spend sufficient time in understanding the instructions in the installation manu
    * If the computer is in the BIOS, set the date and time, verify that the BIOS recognizes the components (e.g. RAM, SSD, GPU, etc) and that it is controlling the fans.  
    * Exit the BIOS, and the computer will enter the bootable USB that has the Ubuntu OS.
 1. Install the OS. During Ubuntu installation, answer the questions to customize the installation. If the computer is connected to the Internet, software will be loaded from the Internet.
-# Install software
-## &emsp; &emsp; Install SSH
-Install and run SSH at the Server
+# Remotely connect with the computer using SSH
+From this point forward, this computer is called a Server and a computer that remotely connects to this Server is called a Client.
+## &emsp; &emsp; Server side
+Install SSH
 ```
 sudo apt-get install openssh-server
 ```
-Start OpenSSH Server and check its status
+Start SSH and check its status
 ```
 sudo service ssh start
 sudo service ssh status
 ```
-Install and run SSH at the Client
-Install SSH
+Get IP address that will be used later
+```
+ifconfig -a
+```
+## &emsp; &emsp; Client side
+Install SSH.
 ```
 sudo apt-get install openssh-client
 ```
-Use this <a href="https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-ubuntu-1804" target="_blank">tutorial</a> to (1) Generate a public/private rsa key pairt, and (2) Install the client's public key at the Server. Briefly, the following three commands are used.  
-Generate public/private rsa key pair
+Use this <a href="https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-ubuntu-1804" target="_blank">tutorial</a> to (1) Generate a public/private rsa key pair, and (2) Install the client's public key at the Server. Briefly, the following three commands are used.  
+Generate public/private rsa key pair.
 ```
 ssh-keygen
 ```
