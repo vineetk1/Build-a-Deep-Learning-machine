@@ -72,7 +72,7 @@ ssh-keygen
 ```
 ssh-copy-id username@remote_host
 ```
-The Client is remotely connected with the Server. 
+The Client is now remotely connected with the Server. 
 # Install Deep Learning software
-
+There are many Deep Learning frameworks such as TensorFlow, Keras, and PyTorch. I will install PyTorch from <a href="https://pytorch.org/" target="_blank">HERE</a>.
  
