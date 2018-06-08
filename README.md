@@ -74,5 +74,15 @@ ssh-copy-id username@remote_host
 ```
 The Client is now remotely connected with the Server. 
 # Install Deep Learning software
-There are many Deep Learning frameworks such as TensorFlow, Keras, and PyTorch. I will install PyTorch from <a href="https://pytorch.org/" target="_blank">HERE</a>.
+Ubuntu 18.04 comes pre-installed with “python3.6” but not with its package management system “pip”.
+Install pip.
+```
+sudo apt install python3-pip
+```
+There are many Deep Learning frameworks such as TensorFlow, Keras, and PyTorch. I will install PyTorch from <a href="https://pytorch.org/" target="_blank">HERE</a>. On that webpage, I selected the following options: OS = Linux, Package Manager = pip, Python = 3.6, CUDA = 9.1. And the outputs are the following commands to run:
+```
+pip3 install http://download.pytorch.org/whl/cu91/torch-0.4.0-cp36-cp36m-linux_x86_64.whl 
+pip3 install torchvision
+```
+As of this writing, PyTorch 0.4 and CUDA 9.1 are the latest versions.
  
