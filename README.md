@@ -72,6 +72,10 @@ ssh-keygen
 ```
 ssh-copy-id username@remote_host
 ```
+Remotely log into the Server. The server's IP address can be used for remote_host.
+```
+ssh username@remote_host
+```
 The Client is now remotely connected with the Server. 
 # Install Deep Learning software
 Ubuntu 18.04 comes pre-installed with “python3.6” but not with its package management system “pip”.
@@ -84,5 +88,5 @@ There are many Deep Learning frameworks such as TensorFlow, Keras, and PyTorch. 
 pip3 install http://download.pytorch.org/whl/cu91/torch-0.4.0-cp36-cp36m-linux_x86_64.whl 
 pip3 install torchvision
 ```
-As of this writing, PyTorch 0.4 and CUDA 9.1 are the latest versions.
+As of this writing, PyTorch 0.4.0 and CUDA 9.1 are the latest versions.
  
