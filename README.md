@@ -4,7 +4,7 @@
 
 <!-- vim-markdown-toc -->
 # Pick hardware components
-Register for an account at <a href="https://pcpartpicker.com" target="_blank">PC Part Picker</a>. This site is invaluable for building a computer. It lists prices of components from various vendors, detects incompatibilities among selected components, keeps track of wattage the components will consume, and a lot more.  
+Register for an account at <a href="https://pcpartpicker.com" target="_blank">PC Part Picker</a>. This site is invaluable for building a computer. It lists prices of components from various vendors, detects incompatibilities among selected components, keeps track of wattage the components consume, and a lot more.  
 
 Following is my list of components and their prices:   
 $ &thinsp; 250 &emsp; &emsp; i5-8400 CPU and Motherboard   
@@ -30,8 +30,8 @@ Spend sufficient time in understanding the instructions in the installation manu
 1. Install the SSD in the Motherboard.
 1. Install the GPU in the Motherboard.
 1. Install the Power Supply in the Case.
-1. Spend sufficient time in developing a strategy to route the cables between the connectors of the Front Panel/Back Panel/Power Supply/Fans and the connectors in the motherboard. Cables should be routed such that the airflow is not obstructed, the status LEDs are visible, the clear CMOS memory jumper pins and all other parts that need to be accessed are accessable, and the cables criss-cross the motherboard as less as possible. Also, develop a checklist of connections. As a side note, my Power Supply has a fan, the CPU has a fan, the GPU has two fans, and there are two fans pre-installed in the Case.
-1. Use appropriate cables to connect the connectors of the Front Panel/Back Panel/Power Supply/Fans with those in the motherboard. Go through the checklist, developed earlier, to confirm that all the connections have been made.
+1. Spend sufficient time in developing a strategy to route the cables between the connectors of the Front Panel/Back Panel/Power Supply/Fans and the connectors on the motherboard. Cables should be routed such that the airflow is not obstructed, the status LEDs are visible, the clear CMOS memory jumper pins and all other parts that need to be accessed are accessable, and the cables criss-cross the motherboard as less as possible. Also, develop a checklist of connections. As a side note, my Power Supply has a fan, the CPU has a fan, the GPU has two fans, and there are two fans pre-installed in the Case.
+1. Use appropriate cables to connect the connectors of the Front Panel/Back Panel/Power Supply/Fans with those on the motherboard. Go through the checklist, developed earlier, to confirm that all the connections have been made.
 # Boot the computer 
 1. Create a bootable USB stick for the OS. I will install the Ubuntu OS. As of this writing, Ubuntu Desktop 18.04 is the stable and latest version. This tutorial on <a href="https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-ubuntu#0" target="_blank">creating a bootable USB stick</a> makes this process very simple.
 1. Connect external peripherals to the Computer. Connect the Computer with the Keyboard, Mouse, Display, Bootable USB stick, and optionally the Internet. Note that there are Display ports (e.g. DVI, HTML) that are controlled by the CPU, and a separate set of Display ports of the GPU. Since the GPU is installed, the CPU display ports will not work. Connect an appropriate display port of the GPU with the Display.
