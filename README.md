@@ -72,6 +72,7 @@ ssh-keygen
 ```
 ssh-copy-id username@remote_host
 ```
+The Client is remotely connected with the Server. 
 # Install Deep Learning software
 
  
