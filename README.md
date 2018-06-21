@@ -100,7 +100,7 @@ Verify installation.
 ```
 nvcc -V
 ```
-## &emsp; &emsp; Install PyTorch, the deep-learning framework
+## &emsp; &emsp; Install PyTorch, a deep-learning framework
 
 Ubuntu 18.04 comes pre-installed with “python3.6” but not with its package management system “pip”.
 Install pip.
