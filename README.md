@@ -107,7 +107,7 @@ Install pip.
 ```
 sudo apt install python3-pip
 ```
-There are many Deep Learning frameworks such as TensorFlow, Keras, and PyTorch. I will install PyTorch from <a href="https://pytorch.org/" target="_blank">HERE</a>. On that webpage, I selected the following options: OS = Linux, Package Manager = pip, Python = 3.6, CUDA = 9.1. The output of the selection were the commands to install PyTorch and Torchvision. I added "sudo -H" to the commands. Torchvision is a computer vision package, and its installation is optional. Install PyTorch, and optionally Torchvision.
+There are many Deep Learning frameworks such as TensorFlow, Keras, and PyTorch. I will install PyTorch from <a href="https://pytorch.org/" target="_blank">HERE</a>. On that webpage, I selected the following options: OS = Linux, Package Manager = pip, Python = 3.6, CUDA = 9.1. The output of the selection were the commands to install PyTorch and Torchvision. I added "sudo -H" to the commands. Torchvision is a software package for computer vision, and its installation is optional. Install PyTorch, and optionally Torchvision.
 ```
 sudo -H pip3 install http://download.pytorch.org/whl/cu91/torch-0.4.0-cp36-cp36m-linux_x86_64.whl 
 sudo -H pip3 install torchvision
