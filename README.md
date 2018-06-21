@@ -78,15 +78,39 @@ ssh username@remote_host
 ```
 The Client is now remotely connected with the Server. 
 # Install Deep Learning software
+## &emsp; &emsp; Install Nvidia GPU drivers
+Check for recommended driver.
+```
+ubuntu-drivers devices
+```
+Install the recommended driver.
+```
+sudo ubuntu-drivers autoinstall
+```
+Verify driver version, plus other information about the GPU.
+```
+nvidia-smi
+```
+## &emsp; &emsp; Install CUDA toolkit for the Nvidia GPU
+Install CUDA 9.1 from Ubuntu 18.04 repository.
+```
+sudo apt install nvidia-cuda-toolkit
+```
+Verify installation.
+```
+nvcc -V
+```
+## &emsp; &emsp; Install PyTorch, the deep-learning framework
+
 Ubuntu 18.04 comes pre-installed with “python3.6” but not with its package management system “pip”.
 Install pip.
 ```
 sudo apt install python3-pip
 ```
-There are many Deep Learning frameworks such as TensorFlow, Keras, and PyTorch. I will install PyTorch from <a href="https://pytorch.org/" target="_blank">HERE</a>. On that webpage, I selected the following options: OS = Linux, Package Manager = pip, Python = 3.6, CUDA = 9.1. And the outputs are the following commands to run:
+There are many Deep Learning frameworks such as TensorFlow, Keras, and PyTorch. I will install PyTorch from <a href="https://pytorch.org/" target="_blank">HERE</a>. On that webpage, I selected the following options: OS = Linux, Package Manager = pip, Python = 3.6, CUDA = 9.1. The output of the selection were the commands to install PyTorch. I added "sudo -H" to the commands as follows:
 ```
-pip3 install http://download.pytorch.org/whl/cu91/torch-0.4.0-cp36-cp36m-linux_x86_64.whl 
-pip3 install torchvision
+sudo -H pip3 install http://download.pytorch.org/whl/cu91/torch-0.4.0-cp36-cp36m-linux_x86_64.whl 
+sudo -H pip3 install torchvision
 ```
-As of this writing, PyTorch 0.4.0 and CUDA 9.1 are the latest versions.
+As of this writing, PyTorch 0.4.0 is the latest version.
  
