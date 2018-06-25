@@ -77,8 +77,7 @@ Remotely log into the Server. The server's IP address can be used for remote_hos
 ssh username@remote_host
 ```
 The Client is now remotely connected with the Server. 
-# Install Deep Learning software
-## &emsp; &emsp; Install Nvidia GPU drivers
+# Install Nvidia GPU drivers
 Check for recommended driver.
 ```
 ubuntu-drivers devices
@@ -91,6 +90,7 @@ Verify driver version, plus other information about the GPU.
 ```
 nvidia-smi
 ```
+# Install Deep Learning software
 ## &emsp; &emsp; Install CUDA toolkit for the Nvidia GPU
 Install CUDA 9.1 from Ubuntu 18.04 repository.
 ```
@@ -112,5 +112,15 @@ There are many Deep Learning frameworks such as TensorFlow, Keras, and PyTorch. 
 sudo -H pip3 install http://download.pytorch.org/whl/cu91/torch-0.4.0-cp36-cp36m-linux_x86_64.whl 
 sudo -H pip3 install torchvision
 ```
-As of this writing, PyTorch 0.4.0 is the latest version.
- 
+As of this writing, PyTorch 0.4.0 is the latest version.  
+Verify that PyTorch detects CUDA by running the following commands in the Python interpreter
+ ```
+ python3
+Python 3.6.5 (default, Apr  1 2018, 05:46:30) 
+[GCC 7.3.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import torch
+>>> torch.cuda.is_available()
+True
+ ```
+The status "True" means that PyTorch is using the GPU.
