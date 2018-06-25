@@ -91,7 +91,7 @@ Verify driver version, plus other information about the GPU.
 nvidia-smi
 ```
 # Install Deep Learning software
-## &emsp; &emsp; Install CUDA toolkit for the Nvidia GPU
+## &emsp; &emsp; Install CUDA toolkit for Nvidia GPU
 Install CUDA 9.1 from Ubuntu 18.04 repository.
 ```
 sudo apt install nvidia-cuda-toolkit
@@ -115,10 +115,6 @@ sudo -H pip3 install torchvision
 As of this writing, PyTorch 0.4.0 is the latest version.  
 Verify that PyTorch detects CUDA by running the following commands in the Python interpreter
  ```
- python3
-Python 3.6.5 (default, Apr  1 2018, 05:46:30) 
-[GCC 7.3.0] on linux
-Type "help", "copyright", "credits" or "license" for more information.
 >>> import torch
 >>> torch.cuda.is_available()
 True
