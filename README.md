@@ -1,4 +1,3 @@
-**NOTE: This is work in progress. This message will be removed soon when this work is completed.**   
 <!-- vim-markdown-toc GFM -->
 
 
@@ -113,7 +112,7 @@ sudo -H pip3 install http://download.pytorch.org/whl/cu91/torch-0.4.0-cp36-cp36m
 sudo -H pip3 install torchvision
 ```
 As of this writing, PyTorch 0.4.0 is the latest version.  
-Verify that PyTorch detects CUDA by running the following commands in the Python interpreter
+Verify that PyTorch detects CUDA by running the following commands in the Python interpreter.
  ```
 >>> import torch
 >>> torch.cuda.is_available()
