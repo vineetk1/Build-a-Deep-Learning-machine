@@ -8,8 +8,8 @@
         * [&emsp; &emsp; Client side](#emsp-emsp-client-side)
 * [Install Nvidia GPU drivers](#install-nvidia-gpu-drivers)
 * [Install Deep Learning software](#install-deep-learning-software)
-        * [&emsp; &emsp; Install CUDA toolkit for Nvidia GPU](#emsp-emsp-install-cuda-toolkit-for-nvidia-gpu)
-        * [&emsp; &emsp; Install PyTorch, a deep-learning framework](#emsp-emsp-install-pytorch-a-deep-learning-framework)
+        * [Install CUDA toolkit for Nvidia GPU](#install-cuda-toolkit-for-nvidia-gpu)
+        * [Install PyTorch, a deep-learning framework](#install-pytorch-a-deep-learning-framework)
 
 <!-- vim-markdown-toc -->
 # Pick hardware components
