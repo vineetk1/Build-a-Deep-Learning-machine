@@ -18,7 +18,7 @@ $ &ensp; 40 &emsp; &emsp; ATX Mid Tower Case
 &emsp; &emsp; &emsp;  &emsp; &thinsp;  USB stick   
 $1365 &emsp; &emsp; Total includes rebates, sales tax, and shipping; but excludes Monitor, Keyboard, Mouse, and USB stick  
 
-I already have a cheap monitor, a USB drive, and a wired USB keyboard and mouse that I will use to boot this computer and install the Secure Shell (SSH). Thereafter, I should have no need for these accessories (i.e. monitor, keyboard, mouse, USB) because I will use my laptop to log into this computer via my home network (and also the Internet) using SSH.   
+I already have a cheap monitor, a USB stick, and a wired USB keyboard and mouse that I will use to boot this computer and install the Secure Shell (SSH). Thereafter, I should have no need for these accessories (i.e. monitor, keyboard, mouse, USB) because I will use my laptop to log into this computer via my home network (and also the Internet) using SSH.   
 My specific components list is <a href="https://pcpartpicker.com/user/vink9482/saved/M6WxYJ" target="_blank">HERE</a>. Add a hard drive if 500 GB of SSD capacity is insufficient.
 # Assemble hardware components
 Spend sufficient time in understanding the instructions in the installation manuals and the videos that come with the components. Carefully follow directions in the installation manuals and the videos to install the components. I installed the components in the following order:   
