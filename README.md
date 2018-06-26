@@ -1,5 +1,3 @@
-<!-- vim-markdown-toc GFM -->
-
 * [Pick hardware components](#pick-hardware-components)
 * [Assemble hardware components](#assemble-hardware-components)
 * [Boot the computer](#boot-the-computer)
@@ -10,8 +8,6 @@
 * [Install Deep Learning software](#install-deep-learning-software)
         * [&emsp; &emsp; Install CUDA toolkit for Nvidia GPU](#emsp-emsp-install-cuda-toolkit-for-nvidia-gpu)
         * [&emsp; &emsp; Install PyTorch, a deep-learning framework](#emsp-emsp-install-pytorch-a-deep-learning-framework)
-
-<!-- vim-markdown-toc -->
 
 # Pick hardware components
 Register for an account at <a href="https://pcpartpicker.com" target="_blank">PC Part Picker</a>. This site is invaluable for building a computer. It lists prices of components from various vendors, detects incompatibilities among selected components, keeps track of wattage the components consume, and a lot more.  
