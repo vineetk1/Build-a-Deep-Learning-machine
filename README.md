@@ -129,3 +129,12 @@ Verify that PyTorch detects CUDA by running the following commands in the Python
 True
  ```
 The status "True" means that PyTorch is using the GPU.
+Section Title
+=============
+The Common Denominator
+======================
+
+Subsection Subtitle
+-------------------
+Titles and Section headers
+--------------------------
