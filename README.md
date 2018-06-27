@@ -1,18 +1,4 @@
 ## Table of contents
-<!-- vim-markdown-toc GFM -->
-
-* [Pick hardware components](#pick-hardware-components)
-* [Assemble hardware components](#assemble-hardware-components)
-* [Boot the computer](#boot-the-computer)
-* [Remotely connect with the computer using SSH](#remotely-connect-with-the-computer-using-ssh)
-	* [Server side](#server-side)
-	* [Client side](#client-side)
-* [Install Nvidia GPU drivers](#install-nvidia-gpu-drivers)
-* [Install Deep Learning software](#install-deep-learning-software)
-	* [&emsp; &emsp; Install CUDA toolkit for Nvidia GPU](#emsp-emsp-install-cuda-toolkit-for-nvidia-gpu)
-	* [&emsp; &emsp; Install PyTorch, a deep-learning framework](#emsp-emsp-install-pytorch-a-deep-learning-framework)
-
-<!-- vim-markdown-toc -->
 ## Pick hardware components
 Register for an account at <a href="https://pcpartpicker.com" target="_blank">PC Part Picker</a>. This site is invaluable for building a computer. It lists prices of components from various vendors, detects incompatibilities among selected components, keeps track of wattage the components consume, and a lot more.  
 
@@ -101,7 +87,7 @@ Verify driver version, plus other information about the GPU.
 nvidia-smi
 ```
 ## Install Deep Learning software
-### &emsp; &emsp; Install CUDA toolkit for Nvidia GPU
+### Install CUDA toolkit for Nvidia GPU
 Install CUDA 9.1 from Ubuntu 18.04 repository.
 ```
 sudo apt install nvidia-cuda-toolkit
@@ -110,7 +96,7 @@ Verify installation.
 ```
 nvcc -V
 ```
-### &emsp; &emsp; Install PyTorch, a deep-learning framework
+### Install PyTorch, a deep-learning framework
 
 Ubuntu 18.04 comes pre-installed with “python3.6” but not with its package management system “pip”.
 Install pip.
