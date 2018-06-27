@@ -1,19 +1,5 @@
 # Build a powerful Deep Learning machine for less than US$ 1500
 ## Table of contents
-<!-- vim-markdown-toc GFM -->
-
-* [Pick hardware components](#pick-hardware-components)
-* [Assemble hardware components](#assemble-hardware-components)
-* [Boot the computer](#boot-the-computer)
-* [Remotely connect with the computer using SSH](#remotely-connect-with-the-computer-using-ssh)
-        * [Server side](#server-side)
-        * [Client side](#client-side)
-* [Install Nvidia GPU drivers](#install-nvidia-gpu-drivers)
-* [Install Deep Learning software](#install-deep-learning-software)
-        * [Install CUDA toolkit for Nvidia GPU](#install-cuda-toolkit-for-nvidia-gpu)
-        * [Install PyTorch, a deep-learning framework](#install-pytorch-a-deep-learning-framework)
-
-<!-- vim-markdown-toc -->
 ## Pick hardware components
 Register for an account at <a href="https://pcpartpicker.com" target="_blank">PC Part Picker</a>. This site is invaluable for building a computer. It lists prices of components from various vendors, detects incompatibilities among selected components, keeps track of wattage the components consume, and a lot more.  
 
