@@ -51,9 +51,9 @@ Spend sufficient time in understanding the instructions in the installation manu
    * If the computer is in the BIOS, set the date and time, verify that the BIOS recognizes the components (e.g. RAM, SSD, GPU, etc) and that it is controlling the fans.  
    * Exit the BIOS, and the computer will enter the bootable USB that has the Ubuntu OS.
 1. Install the OS. During Ubuntu installation, answer the questions to customize the installation. If the computer is connected to the Internet, software will be loaded from the Internet.
-# Remotely connect with the computer using SSH
+## Remotely connect with the computer using SSH
 From this point forward, this computer is called a Server and a computer that remotely connects to this Server is called a Client.
-## Server side
+### Server side
 Install SSH.
 ```
 sudo apt-get install openssh-server
@@ -67,7 +67,7 @@ Get IP address that will be used later.
 ```
 ifconfig -a
 ```
-## Client side
+### Client side
 Install SSH.
 ```
 sudo apt-get install openssh-client
@@ -87,7 +87,7 @@ Remotely log into the Server. The server's IP address can be used for remote_hos
 ssh username@remote_host
 ```
 The Client is now remotely connected with the Server. 
-# Install Nvidia GPU drivers
+## Install Nvidia GPU drivers
 Check for recommended driver.
 ```
 ubuntu-drivers devices
@@ -100,8 +100,8 @@ Verify driver version, plus other information about the GPU.
 ```
 nvidia-smi
 ```
-# Install Deep Learning software
-## Install CUDA toolkit for Nvidia GPU
+## Install Deep Learning software
+### &emsp; &emsp; Install CUDA toolkit for Nvidia GPU
 Install CUDA 9.1 from Ubuntu 18.04 repository.
 ```
 sudo apt install nvidia-cuda-toolkit
@@ -110,7 +110,7 @@ Verify installation.
 ```
 nvcc -V
 ```
-## Install PyTorch, a deep-learning framework
+### &emsp; &emsp; Install PyTorch, a deep-learning framework
 
 Ubuntu 18.04 comes pre-installed with “python3.6” but not with its package management system “pip”.
 Install pip.
