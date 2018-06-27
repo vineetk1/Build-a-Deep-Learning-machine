@@ -52,7 +52,7 @@ Spend sufficient time in understanding the instructions in the installation manu
 1. Install the OS. During Ubuntu installation, answer the questions to customize the installation. If the computer is connected to the Internet, software will be loaded from the Internet.
 # Remotely connect with the computer using SSH
 From this point forward, this computer is called a Server and a computer that remotely connects to this Server is called a Client.
-## &emsp; &emsp; Server side
+## Server side
 Install SSH.
 ```
 sudo apt-get install openssh-server
@@ -66,7 +66,7 @@ Get IP address that will be used later.
 ```
 ifconfig -a
 ```
-## &emsp; &emsp; Client side
+## Client side
 Install SSH.
 ```
 sudo apt-get install openssh-client
