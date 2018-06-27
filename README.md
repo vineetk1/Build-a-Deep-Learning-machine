@@ -3,13 +3,13 @@
 * [Pick hardware components](#pick-hardware-components)
 * [Assemble hardware components](#assemble-hardware-components)
 * [Boot the computer](#boot-the-computer)
-        * [Remotely connect with the computer using SSH](#remotely-connect-with-the-computer-using-ssh)
-                * [Server side](#server-side)
-                * [Client side](#client-side)
-        * [Install Nvidia GPU drivers](#install-nvidia-gpu-drivers)
-        * [Install Deep Learning software](#install-deep-learning-software)
-                * [&emsp; &emsp; Install CUDA toolkit for Nvidia GPU](#emsp-emsp-install-cuda-toolkit-for-nvidia-gpu)
-                * [&emsp; &emsp; Install PyTorch, a deep-learning framework](#emsp-emsp-install-pytorch-a-deep-learning-framework)
+* [Remotely connect with the computer using SSH](#remotely-connect-with-the-computer-using-ssh)
+        * [Server side](#server-side)
+        * [Client side](#client-side)
+* [Install Nvidia GPU drivers](#install-nvidia-gpu-drivers)
+* [Install Deep Learning software](#install-deep-learning-software)
+        * [&emsp; &emsp; Install CUDA toolkit for Nvidia GPU](#emsp-emsp-install-cuda-toolkit-for-nvidia-gpu)
+        * [&emsp; &emsp; Install PyTorch, a deep-learning framework](#emsp-emsp-install-pytorch-a-deep-learning-framework)
 
 <!-- vim-markdown-toc -->
 ## Pick hardware components
