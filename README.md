@@ -102,7 +102,7 @@ Verify driver version, plus other information about the GPU.
 nvidia-smi
 ```
 ## Install Deep Learning software
-### &emsp; &emsp; Install CUDA toolkit for Nvidia GPU
+### Install CUDA toolkit for Nvidia GPU
 Install CUDA 9.1 from Ubuntu 18.04 repository.
 ```
 sudo apt install nvidia-cuda-toolkit
@@ -111,7 +111,7 @@ Verify installation.
 ```
 nvcc -V
 ```
-### &emsp; &emsp; Install PyTorch, a deep-learning framework
+### Install PyTorch, a deep-learning framework
 
 Ubuntu 18.04 comes pre-installed with “python3.6” but not with its package management system “pip”.
 Install pip.
