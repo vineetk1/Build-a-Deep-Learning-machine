@@ -12,7 +12,7 @@
                 * [&emsp; &emsp; Install PyTorch, a deep-learning framework](#emsp-emsp-install-pytorch-a-deep-learning-framework)
 
 <!-- vim-markdown-toc -->
-# Pick hardware components
+## Pick hardware components
 Register for an account at <a href="https://pcpartpicker.com" target="_blank">PC Part Picker</a>. This site is invaluable for building a computer. It lists prices of components from various vendors, detects incompatibilities among selected components, keeps track of wattage the components consume, and a lot more.  
 
 Following is my list of components and their prices:   
@@ -30,7 +30,7 @@ $1365 &emsp; &emsp; Total includes rebates, sales tax, and shipping; but exclude
 
 I already have a cheap monitor, a USB stick, and a wired USB keyboard and mouse that I will use to boot this computer and install the Secure Shell (SSH). Thereafter, I should have no need for these accessories (i.e. monitor, keyboard, mouse, USB) because I will use my laptop to log into this computer via my home network (and also the Internet) using SSH.   
 My specific components list is <a href="https://pcpartpicker.com/user/vink9482/saved/M6WxYJ" target="_blank">HERE</a>. Add a hard drive if 500 GB of SSD capacity is insufficient.
-# Assemble hardware components
+## Assemble hardware components
 Spend sufficient time in understanding the instructions in the installation manuals and the videos that come with the components. Carefully follow directions in the installation manuals and the videos to install the components. I installed the components in the following order:   
 1. Install the CPU in the Motherboard.
 1. Install the Fan on the CPU. The i5-8400 CPU comes with a Fan.
@@ -41,7 +41,7 @@ Spend sufficient time in understanding the instructions in the installation manu
 1. Install the Power Supply in the Case.
 1. Spend sufficient time in developing a strategy to route the cables between the connectors of the Front Panel/Back Panel/Power Supply/Fans and the connectors on the motherboard. Cables should be routed such that the airflow is not obstructed, the status LEDs are visible, the clear CMOS memory jumper pins and all other parts that need to be accessed are accessable, and the cables criss-cross the motherboard as less as possible. Also, develop a checklist of connections. As a side note, my Power Supply has a fan, the CPU has a fan, the GPU has two fans, and there are two fans pre-installed in the Case.
 1. Use appropriate cables to connect the connectors of the Front Panel/Back Panel/Power Supply/Fans with those on the motherboard. Go through the checklist, developed earlier, to confirm that all the connections have been made.
-# Boot the computer 
+## Boot the computer 
 1. Create a bootable USB stick for the OS. I will install the Ubuntu OS. As of this writing, Ubuntu Desktop 18.04 is the stable and latest version. This tutorial on <a href="https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-ubuntu#0" target="_blank">creating a bootable USB stick</a> makes this process very simple.
 1. Connect external peripherals to the Computer. Connect the Computer with the Keyboard, Mouse, Display, Bootable USB stick, and optionally the Internet. Note that there are Display ports (e.g. DVI, HTML) that are controlled by the CPU, and a separate set of Display ports of the GPU. Since the GPU is installed, the CPU display ports will not work. Connect an appropriate display port of the GPU with the Monitor.
 1. Connect the Computer Power Supply, Display Power Supply, etc. with the Power Outlet.
